@@ -9,3 +9,4 @@ bicimad.egg-info/requires.txt
 bicimad.egg-info/top_level.txt
 tests/__init__.py
 tests/test_bicimad.py
+tests/test_urlemt.py

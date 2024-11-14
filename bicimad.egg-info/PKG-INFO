@@ -1,5 +1,7 @@
 Metadata-Version: 2.1
 Name: bicimad
-Version: 0.1.1
+Version: 1.0.0
 Summary: Paquete para análisis de datos de BiciMad
 Author: Carlos Corona
+Author-email: ccoron01@ucm.es
+Requires-Python: >=3.6

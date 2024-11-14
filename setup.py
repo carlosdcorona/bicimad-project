@@ -2,12 +2,14 @@ from setuptools import setup, find_packages
 
 setup(
     name="bicimad",
-    version="0.1.1",
+    version="1.0.0",
+    description="Paquete para análisis de datos de BiciMad",
+    author="Carlos Corona",
+    author_email="ccoron01@ucm.es",
     packages=find_packages(),
     install_requires=[
-        "pandas",
-        "requests",
+        "pandas>=1.0.0",
+        "requests>=2.0.0",
     ],
-    author="Carlos Corona",
-    description="Paquete para análisis de datos de BiciMad",
+    python_requires=">=3.6",
 )
