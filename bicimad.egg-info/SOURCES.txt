@@ -1,3 +1,4 @@
+README.md
 setup.py
 bicimad/__init__.py
 bicimad/bicimad.py
